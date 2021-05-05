@@ -1,8 +1,9 @@
 # Python3 Mini Projects 📚
 
-## 1. 3D Button
-- Python3 interactive dictionary
-- Autosuggest words
+## 1. Interactive Dictionary
+- Simple and interactive dictionary (Find meaning of most words)
+- Auto suggest words !
+- Libraries used - difflib and json
 
 # ScreenShots Below 👇
 
