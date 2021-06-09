@@ -1,3 +1,4 @@
+![Screenshot-1](https://github.com/deathook007/Python3-Mini-Projects/blob/main/Python3%20Mini%20Projects_Wall.jpg)
 # Python3 Mini Projects 📚
 
 ## 1. Interactive Dictionary
